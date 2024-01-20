@@ -27,7 +27,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: Research Interest
     content:
-      title: Research Interest
+      title: research
       username: admin
   # - block: experience
   #   content:
