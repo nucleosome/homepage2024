@@ -41,10 +41,10 @@ sections:
   #   content:
   #     title: Awards
   #     username: admin
-  # - block: skills
-  #   content:
-  #     title: Skills & Hobbies
-  #     username: admin
+  - block: skills
+    content:
+      title: Research Interest
+      username: admin
   
   # comment by lll 20jan
   # - block: languages
