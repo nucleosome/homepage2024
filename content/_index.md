@@ -25,10 +25,10 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: Research Interest
-    content:
-      title: research
-      username: admin
+  # - block: Research Interest
+  #   content:
+  #     title: research
+  #     username: admin
   # - block: experience
   #   content:
   #     username: admin
