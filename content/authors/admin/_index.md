@@ -98,7 +98,7 @@ profiles:
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - Semantic Communication and Goal-oriented Communication |
+  - Semantic Communication and Goal-oriented Communication
   - Wireless Security
   # - name: Research Interst
   #   items:
