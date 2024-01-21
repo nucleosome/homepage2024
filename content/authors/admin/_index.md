@@ -98,13 +98,15 @@ profiles:
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Research Interst
-    items:
-      - name: Semantic Communication and Goal-oriented Communication
-        # description: ''
-        # percent: 80
-        # icon: code-bracket
-      - name: Wireless Security
+  - Semantic Communication and Goal-oriented Communication |
+  - Wireless Security
+  # - name: Research Interst
+  #   items:
+  #     - name: Semantic Communication and Goal-oriented Communication
+  #       # description: ''
+  #       # percent: 80
+  #       # icon: code-bracket
+  #     - name: Wireless Security
       #   description: ''
       #   percent: 100
       #   icon: chart-bar
