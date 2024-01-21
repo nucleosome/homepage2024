@@ -145,7 +145,7 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Directional Modulation-Enabled Secure Transmission with Intelligent Reflecting Surface
-    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://ieeexplore.ieee.org/document/9232092
     date: '2020-09-25'
     awarder: Best Presentation Award of IEEE ICICSP 2020
     # icon: coursera
